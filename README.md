@@ -149,7 +149,7 @@ This transformation made the project suitable for demonstrations and real-world 
 ---
 
 ## Team Members
-**Shalaka Gangurde**  
+**Sarthak Mokal**  
 GitHub: https://github.com/team-member-username  
 LinkedIn: https://www.linkedin.com/in/team-member-linkedin  
 
